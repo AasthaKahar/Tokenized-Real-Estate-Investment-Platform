@@ -84,4 +84,5 @@ contract TokenizedRealEstate {
         emit TokensTransferred(_propertyId, msg.sender, _to, _amount);
     }
 }
-
+contract address : 0xA321C7cFa2207a3f3ef398A25B69e4bb2d5989d8
+C:\Users\student\Pictures\Screenshots
